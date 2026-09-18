@@ -120,3 +120,21 @@ li {
   }
 
 }
+/* Logo image */
+.logo img {
+  height: 42px;
+  width: auto;
+  display: block;
+}
+
+/* Profile image */
+.avatar {
+  overflow: hidden;
+}
+
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
